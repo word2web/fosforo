@@ -1,11 +1,12 @@
 ---
 title: How to install this theme
-date: 2022-06-12
+date: '2025-05-14T00:00:00.000Z'
 author: Óscar Otero
 tags:
   - Instructions
+draft: false
+comments: {}
 ---
-
 **Simple blog** is a clean and minimal blog theme for Lume, with support for
 tags and authors. It allows you to build your own blog **in seconds**, and
 provides Atom and JSON feeds for your subscribers.

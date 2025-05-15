@@ -42,6 +42,12 @@ cms.document(
           label: "Title",
           description: "Welcome message in the homepage",
         },
+         {
+          name: "intro",
+          type: "text",
+          label: "Introduction",
+          description: "Subtitle beneath the welcome message",
+        },
       ],
     },
     {
