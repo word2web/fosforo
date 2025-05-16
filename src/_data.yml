@@ -1,9 +1,8 @@
 lang: en
 home:
   welcome: "Hello \U0001F44B"
-  intro: <p>Thanks for stopping by.</p><p>I'm Graham Twaddle and since 2017 I've been a contractor specialising in knowledge management, communications and business analysis.</p> <p>This site is a home for my blog and for some wee personal projects I've been working on.</p><p>Enjoy. 😊</p>
+  intro: "<p>and welcome to my <i>minimum viable website</i>! Thanks for stopping by.</p><p>I'm Graham Twaddle and since 2017 I've been a contractor specialising in knowledge management, communications and business analysis.</p> <p>This site is a home for my blog and for some wee personal projects I've been working on.</p><p>Enjoy. \U0001F60A</p>"
 menu_links: []
-extra_head:
 metas:
   site: Graham Twaddle
   description: Graham Twaddle's minimum viable website

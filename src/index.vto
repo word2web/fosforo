@@ -7,16 +7,13 @@ title: Home
 <header class="page-header">
   <h1 class="page-title">{{ home.welcome }}</h1>
 <div class="page-subtitle">{{ home.intro |> md }}</div>
- <!-- <div class="search" id="search"></div> -->
- <div class=post-excerpt body>
- 
-</div>
+<!-- <div class="search" id="search"></div> -->
+
+
 </header>
 
- <h2>Some recent(ish) posts</h2>
- <hr />
 <section class="postList">
-  {{ for post of search.pages("type=post", "date=desc", 3) }}
+  {{ for post of search.pages("type=post", "date=desc", 2) }}
  
   <article class="post">
     <header class="post-header">
