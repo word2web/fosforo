@@ -1,7 +1,7 @@
 lang: en
 home:
   welcome: "Hello \U0001F44B"
-  intro: <p>This is intro text.</p> <p>This is more intro text.</p>
+  intro: <p>Thanks for stopping by.</p><p>I'm Graham Twaddle and since 2017 I've been a contractor specialising in knowledge management, communications and business analysis.</p> <p>This site is a home for my blog and for some wee personal projects I've been working on.</p><p>Enjoy. 😊</p>
 menu_links: []
 extra_head:
 metas:
