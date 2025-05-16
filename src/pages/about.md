@@ -1,10 +1,11 @@
 ---
 layout: layouts/page.vto
-title: Contact
-url: /contact/
+title: About
+url: /about/
 menu:
   visible: true
   order: 2
 ---
-
 Hola
+
+My [learning odyssey](/learning-odyssey/)
