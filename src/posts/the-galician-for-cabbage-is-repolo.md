@@ -1,7 +1,7 @@
 ---
 title: The Galician for cabbage
 date: '2025-05-16T00:00:00.000Z'
-draft: false
+draft: true
 tags:
   - projects
   - recipes
