@@ -4,6 +4,7 @@ title: Learning odyssey
 menu:
   visible: false
   order: 0
+url: /learning-odyssey/
 ---
 # Learning Odyssey
 
@@ -37,12 +38,14 @@ Below is a list of the online courses I've completed, ordered with the most rece
 
 ---
 
-## Active Learning Profiles
+## Microsoft Learning
 
 I’m continuously building my skills on interactive learning platforms. Visit my profiles to see my latest progress and badges:
 
 - **[Microsoft Learning Profile](https://learn.microsoft.com/en-us/users/yourusername)**  
   Explore my certifications and learning paths in cloud computing, Azure, and more.
+
+## Salesforce
 
 - **[Salesforce Trailhead Profile](https://trailhead.salesforce.com/en/me/yourusername)**  
   Check out my badges and trails as I dive into Salesforce administration and development.
