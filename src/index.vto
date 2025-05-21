@@ -23,8 +23,8 @@ title: Home
         </a>
       </h2>
 
-      {{ include "templates/post-details.vto" {
-        date: post.date,
+{{ include "templates/post-details.vto" {
+        date: "First published " + post.date,
         tags: post.tags,
         author: post.author,
         readingInfo: post.readingInfo

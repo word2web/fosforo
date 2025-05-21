@@ -1,6 +1,7 @@
 ---
 title: Things I don't know about AI
 date: '2025-05-13T00:00:00.000Z'
+lastUpdated: 2024-05-22
 tags:
   - AI
 comments: {}
@@ -25,3 +26,5 @@ And at the risk of being a wee bit sci-fi and "woo", I don't know the nature of 
 So far, so agnostic.
 
 But there are some things I think it is possible to know about AI, and I will explore them in the next posts.
+
+Clever

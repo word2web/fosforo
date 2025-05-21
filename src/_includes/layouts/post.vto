@@ -66,6 +66,20 @@ bodyClass: body-post
     </mastodon-comments>
   </aside>
   {{ /if }}
+
+<footer class="post-footer">
+  <p>
+    <em>
+      Last updated:
+      {{ if lastUpdated }}
+        <time datetime="{{ lastUpdated |> date('DATETIME') }}">{{ lastUpdated |> date('HUMAN_DATE') }}</time>
+      {{ else }}
+        <time datetime="{{ date |> date('DATETIME') }}">{{ date |> date('HUMAN_DATE') }}</time>
+      {{ /if }}
+    </em>
+  </p>
+</footer>
+  
 </article>
 
 <nav class="page-pagination pagination">

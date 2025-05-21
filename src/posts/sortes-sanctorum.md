@@ -1,6 +1,7 @@
 ---
 title: The Sortes Sanctorum
 date: '2025-05-12T00:00:00.000Z'
+lastUpdated: 2024-05-22
 tags:
   - projects
 draft: false
@@ -10,6 +11,6 @@ The Sortes Sanctorum was a wee experiment with ChatGPT (the free version) to see
 
 The inspiration for the app was a Medieval fortune telling system with dice called the [Sortes Sanctorum](https://en.wikipedia.org/wiki/Sortes_Sanctorum).
 
-I used Google Translate to translate the old texts from Latin and French, and then got ChatGPT to create the code for the virtual dice roll. Bing image creator provided the illustration.
+I used Google Translate to translate the old texts from Latin and French, and then got ChatGPT to create the code for the virtual dice roll and Bing image creator provided the illustration.
 
 [Consult the Sortes Sanctorum](https://incredible-shortbread-c470c6.netlify.app/)

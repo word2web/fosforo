@@ -2,6 +2,7 @@
 title: 8 things (I think) I know about AI
 url: /8-things-about-AI/
 date: '2025-05-19T00:00:00.000Z'
+lastUpdated: 2024-05-22
 draft: false
 tags:
   - AI
@@ -11,7 +12,7 @@ I've admitted that there is still much I don't know about AI. But here are some 
 
 1.  **A lot of the 'magic' in AI comes from maths**. Which is a bit unfortunate for someone who only got a B for Higher Maths. The more I learn about AI, the more I understand just how much it is made possible by mathematics and statistical techniques that are outside my intellectual grasp. On the plus side, computer scientists themselves admit that AI is a “black box” and [<ins>they don’t know how it works</ins>](https://www.technologyreview.com/2024/03/05/1089449/nobody-knows-how-ai-works/). That makes me feel a bit better.
     
-2.  **The moment for AI has come**.Clever maths has existed for a long time. When I was at school I was interested in Alan Turing (not enough to get an A in maths though) and his famous "imitation game" test for artificial intelligence. For a long time it was all aspirational but the arrival of large language models like ChatGPT, Gemini, Grok, Claude and DeepSearch has changed the game. The imitation game has been won. Why now? It's not just the maths: it's also 20 plus years of the internet and all its data, the advances in computer chips, data storage and always-on cloud computing. This is the digital 'primal soup' from which large language models have emerged.
+2.  **The moment for AI has come**.Clever maths has existed for a long time. When I was at school I was interested in Alan Turing (not enough to get an A in maths though) and his famous "imitation game" test for artificial intelligence. For a long time it was all aspirational but the arrival of large language models like ChatGPT, Gemini, Grok, Claude and DeepSearch has changed the game. The imitation game has been won. Why now? It's not just the maths: it's also 20 plus years of the internet and all its data, the advances in computer chips, data storage and always-on cloud computing. This is the digital 'primal soup' from which large language models have emerged. Clever.
     
 3.  **We're not ready for the pace of change**. Since 2020, we've all been on a societal and technological rollercoaster. People in a lot of organisations are still getting their heads around using Microsoft Teams and working out the difference between SharePoint and OneDrive never mind what a large language model is. There is a significant educational, economic, environmental ethical and regulatory lag between the new technologies and the human societies they are being “rolled out” to. Individuals, businesses, governments and whole societies are going to be playing catch up for some time.
     
