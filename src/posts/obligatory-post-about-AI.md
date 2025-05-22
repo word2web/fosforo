@@ -1,6 +1,6 @@
 ---
-title: 8 things (I think) I know about AI
-url: /8-things-about-AI/
+title: Obligatory post about AI
+url: /obligatory-post-about-AI/
 date: '2025-05-19T00:00:00.000Z'
 lastUpdated: 2024-05-22
 draft: false
