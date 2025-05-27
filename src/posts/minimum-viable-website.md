@@ -13,6 +13,8 @@ Procrastination
 
 Seeking the perfect content management system
 
+<!--more-->
+
 Settling for Lume
 
 Clever
