@@ -1,7 +1,0 @@
-[build.environment]
-DENO_VERSION = "2.3.3"
-PYTHON_VERSION = "3.12"
-
-[build]
-  publish = "_site"
-  command = "deno task build"
