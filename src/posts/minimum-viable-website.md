@@ -1,7 +1,7 @@
 ---
 title: My minimum viable website
 date: '2025-05-27T00:00:00.000Z'
-lastUpdated: 2024-05-22T00:00:00.000Z
+lastUpdated: 2025-05-27T00:00:00.000Z
 draft: false
 tags:
   - static site generators
@@ -9,7 +9,7 @@ tags:
 comments: {}
 url: /minimum-viable-website/
 ---
-I used to kid myself on that procrastination was not one of my vices. And then I tried to launch this website.
+I used to kid myself that procrastination was not one of my vices. And then I tried to launch this website.
 
 <!--more-->
 
