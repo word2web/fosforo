@@ -14,7 +14,7 @@ It wouldn't be 2025 without some talk about AI, so here's some of my thoughts.
 
 Firstly, **I don't really know what I am talking about**. Most of us (including me) are vague at best how AI works.
 
-The same could be said for a lot of the technology we have used for some time. But somehow with AI, the large language models in particular, there seems to something unworldy and 'magic' about it all. 
+The same could be said for a lot of the technology we have used for some time. But somehow with AI, the large language models (LLMs) in particular, there seems to something unworldy and 'magic' about it all.
 
 This is technology that talks back to us. In the 1970s (yes, I'm old) there was a sci-fi TV show called Blake's 7 with a computer called Zen that seemed to know everything. This seemed completely far off and futuristic. Now, not so much.
 
@@ -22,26 +22,28 @@ A lot of the 'magic' in AI comes from maths. Which is a bit unfortunate for some
 
 On the plus side, computer scientists themselves admit that AI is a “black box” and [they don’t quite understand how it works](https://www.technologyreview.com/2024/03/05/1089449/nobody-knows-how-ai-works/) so maybe nobody knows at this point what they're talking about.
 
-Since 2020, we've all been on a technological and societal rollercoaster. The ride isn't showing any signs of slowing down. We've jumped from 'software as a service' to 'brain as a service'. 
+Since 2020, we've all been on a technological and societal rollercoaster. The ride isn't showing any signs of slowing down. We've jumped from *software as a service* to ***brain as a service*** in a matter of only a few years.
 
-**I do not believe that we could possibly have been prepared for this pace of change**. As a result, there is a significant ethical, educational, economic, regulatory and environmental lag between the new technologies and the societies they are being “rolled out” to. And we're not really going to get much of a say in when or how it's all rolled out to because we're not in the driving seat.
+**I do not believe that we could possibly have been prepared for this pace of change**. As a result, there is a significant ethical, educational, economic, regulatory and environmental lag between the new technologies and the societies they are being “rolled out” to. And we're not really going to get much of a say in when or how it's all rolled out to us because we're not in the driving seat.
 
 **AI is in the hands of the rich and powerful.**  Humongous amounts of computer processing power, data storage and electricity are needed for training and running of LLMs. You need to be rich and powerful to keep the lights on in these data centres. A lot of money is at stake and at some point (soon) AI will need to turn in big profits.
 
-Little people like me is that I don't and never will own the means of production. The kind of resources needed for AI systems run favour the big players - Google, X, Amazon, Facebook, Microsoft etc.  How sustainable is any of this? It's not just hardware and electricity AI data centres need. It's land and water too. With 8 billion humans (and counting) people on the planet, at what point will there competition for some if not all of these resources?
+For little people like me this means that I don't and never will own the means of production. The kind of resources needed for AI systems to run advantage the big players who already have them - Google, X, Amazon, Facebook, Microsoft etc.
 
-I am not asking these questions because I am hostile to AI. I am *awestruck* by AI. Here I am, trying to squeeze out this blog post and it is *sooooo tempting* to cave in and ask AI to do it for me. Because writing is hard and AI is better at it than me. As it is at problem solving, idea generation, summarising, reporting, programming, calculating... and finishing sentences more fluently than this one. 
+How sustainable is any of this? It's not just hardware and electricity that AI data centres need. It's land and water too. With 8 billion humans (and counting) people on the planet, at what point will there competition for some if not all of these resources?
 
-The more I interact with large language models like ChatGPT, Grok, Gemini and DeepSeek, the more I marvel at their capability and despair that latter day humans like me can compete with them at the sort of tasks I used to do for a living.
+I am not asking these questions because I am hostile to AI. I am *awestruck* by AI. Here I am, trying to squeeze out this blog post and it is *sooooo tempting* to cave in and ask AI to do it for me. Because writing is hard and AI is better at it than me. As it is at problem solving, idea generation, summarising, reporting, programming, calculating... and finishing sentences more fluently than this one.
 
-**This means that some jobs (maybe mine) are going to be replaced or downgraded.** That's my one takeaway from my 'deep dive' into AI so far. Provided that AI even at its current level can hang around for another 5, then I don't see how some jobs can survive. I just don't.
+The more I interact with LLMs like ChatGPT, Grok, Gemini and DeepSeek, the more I marvel at their capability and despair that *latter day humans* like me can compete with them at the sort of intellectual tasks I used to do for a living.
 
-This is sobering and a bit scary. **AI *is* a bit scary**. And impressive. Scarily impressive. In fact, if you're not a wee bit scared by AI, you're not paying full attention. Or maybe you are one of those humans who can still live their lives largely in the analogue world. However, the fact that you're reading this not out in the fields farming or installing a new toilet suggests you're not one of them.
+**This means that some jobs (maybe mine) are going to be replaced or downgraded.** That's my one takeaway from my 'deep dive' into AI so far. Provided that AI even at its current level can hang around for another 5 years, then I don't see how some jobs can survive. I just don't.
 
-I'll put it bluntly: any task that could be done digitally is likely to be one that AI will be better at than humans. 
+This is sobering and a bit scary. **AI *is* a bit scary**. And impressive. Scarily impressive.
 
-The internet no longer belongs to us. In fact, it's been some time since the internet was an exclusively human zone. We're rubbing shoulders with chatbots, large language models, algorithms, disembodied voices and their avatars and we are becoming guests in their land. They are the real digital natives.
+I'll put it bluntly: any task that could be done digitally is likely to be one that AI will be better at than humans.
 
-I'm not saying we can or should all go off and retrain as farmers or plumbers. But I do think that our task as humans is to begin rediscovering, re-inhabiting and maybe even reinventing the analogue world. 
+The internet no longer belongs to us. In fact, it's been some time since the internet was an exclusively human zone. We're rubbing shoulders with bot farms, large language models, algorithms, disembodied voices and their avatars and we are becoming guests in a their land. They are the real digital natives.
+
+I'm not saying we can or should all go off and retrain as farmers or plumbers or some other offline profession. But I do think that our task as humans is to begin rediscovering, re-inhabiting and maybe even reinventing the analogue world.
 
 It is, after all, the place where humans have spent the first million or so years. What is left for us here to do?
