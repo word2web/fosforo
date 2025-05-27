@@ -6,12 +6,22 @@ menu:
   visible: true
   order: 2
 ---
-I'm based in Scotland and since 2017 I've mainly worked as a contractor in a number of roles ranging from corporate communications to knowledge management consultancy.
+I'm currently based in Scotland and since 2017 I've mainly worked as a contractor in knowledge and information management.
 
-During this time I've been lucky enough to work for some big organisations and companies, including the world's 5 largest IT consultancy company, the world's 4 largest private equity company, the UK Government and an international NGO based in Paris.
+During this time I've been lucky enough to work for some big organisations and companies:
 
-Some of these roles have been via my company Word2Web Ltd (Company number 13390874). which is still open for business, so if there's anything you think I can help you with, give me a shout.
+- a major international [IT consultancy company](https://www.cgi.com/en)
+- a Big Four [accounting firm](https://www.deloitte.com/uk/en/about.html)
+- a major [global investment firm](https://www.kkr.com/)
+- the UK Government's [Department of Health and Social Care](https://www.gov.uk/government/organisations/department-of-health-and-social-care) and [Department for Science, Innovation and Technology](https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology)
+- and a [science NGO](https://council.science/) based in Paris.
 
-Before becoming a contractor (the best career decision of my life so far) I worked in corporate communications for a large UK charity and the NHS. Before that I worked as a website content editor (old skool) and before that (sshhhhh!) I was a librarian.
+Some of these roles have been via my company Word2Web Ltd (Company number 13390874) which is still open for business.
 
-Life's a journey. I'm still on the road and I'm still learning. [Here is a list](/my-learning-odyssey/ "Link to a list of subjects I'm studying") of some of the subjects I'm currently trying to wrap my head around.
+Before becoming a contractor (the best career decision of my life so far) I worked in corporate communications for a large UK charity and the NHS. Before that I worked as a website content editor in the days when updating websites for a living was a novelty.
+
+...And before that (sshhhhh!) I was a librarian. 🤫 📚
+
+So there have been a few career changes so far and given the pace of change these days there may be more to come. I'm [still learning](/learning-odyssey/) as I go.
+
+**One big area of interest to me in this age of AI is what is left for a *latter day human* like me to do.** I will be exploring this question from time to time (and hopefully 🙏 coming up with some answers) in my [blog](/archive/) so if this sort of thing interests you too, please stay around.

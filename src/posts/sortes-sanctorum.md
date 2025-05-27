@@ -1,6 +1,6 @@
 ---
 title: The Sortes Sanctorum
-date: '2025-05-12T00:00:00.000Z'
+date: '2024-04-12T00:00:00.000Z'
 lastUpdated: 2024-05-22
 tags:
   - projects
