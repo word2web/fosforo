@@ -26,4 +26,14 @@
       text-decoration: none;
     }
   }
+
+  /* Add this block for the box styling */
+  & article.post {
+    background-color: #e6f2ff;
+    padding: 1.5rem;
+    border-radius: 8px;
+    margin-bottom: 1.5rem;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+    border: 1px solid #cce0ff;
+  }
 }
