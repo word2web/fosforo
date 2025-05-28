@@ -2,7 +2,7 @@
 title: Obligatory post about AI
 url: /obligatory-post-about-AI/
 date: '2025-05-19T00:00:00.000Z'
-lastUpdated: 2024-05-27
+lastUpdated: 2024-05-28
 draft: false
 tags:
   - AI
@@ -38,7 +38,7 @@ This is sobering and a bit scary. **AI *is* a bit scary**. And impressive. Scari
 
 I'll put it bluntly: any task that can be done digitally is likely to be one that AI will eventually be better at than humans.
 
-The internet no longer belongs to us. In fact, it's been some time since the internet was an exclusively human zone. We're rubbing shoulders with bot farms, large language models, algorithms, disembodied voices and their avatars and we are becoming guests in a their land. They are the real digital natives.
+The internet no longer belongs to us. In fact, it's been some time since the internet was an exclusively human zone. We're rubbing shoulders with bot farms, large language models, algorithms, disembodied voices and their avatars and we are becoming guests in their land. They are the real digital natives.
 
 I'm not saying we can or should all go off and retrain as farmers or plumbers or some other offline profession. But I do think that our task as humans is to begin rediscovering, re-inhabiting and maybe even reinventing the analogue world.
 
