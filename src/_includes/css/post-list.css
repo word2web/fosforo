@@ -28,37 +28,29 @@
   }
 
 & article.post {
-  background-color: #e6f2ff;
-  padding: 1.5rem;
-  border-radius: 8px;
-  margin-bottom: 1.5rem;
-  border: 1px solid #cce0ff;
-  /* Shadow fallback for Safari */
-  position: relative;
-}
-/* Simulate shadow with pseudo-elements */
-& article.post::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  border-radius: 8px;
-  border: 1px solid rgba(0, 0, 0, 0.08);
-  pointer-events: none;
-}
-
-/* iPad-specific adjustments (768px–1024px) */
-@media (min-width: 768px) and (max-width: 1024px) {
-  .postList {
-    & article.post {
-      margin-bottom: 2rem; /* Increase spacing between cards */
-      padding: 1.5rem 1.25rem; /* Slightly reduce padding */
-    }
-    & .post-title {
-      font-size: 1.25rem; /* Scale down title size if needed */
-    }
+    background-color: #e6f2ff;
+    padding: 1.5rem;
+    border-radius: 8px;
+    margin-bottom: 2rem;
+    border: 1px solid #cce0ff;
+    position: relative;
+    /* Shadow fallbacks */
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+    -webkit-box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+    transform: translate3d(0, 0, 0);
+    -webkit-transform: translate3d(0, 0, 0);
   }
-}
+
+  /* Simulated shadow for stubborn Safari */
+  & article.post::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    border-radius: 7px; /* Slightly smaller to avoid bleed */
+    border: 1px solid rgba(0, 0, 0, 0.08);
+    pointer-events: none;
+  }
 }
