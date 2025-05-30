@@ -2,19 +2,19 @@
   list-style: none;
   padding: 0;
 
-  & article.post + article.post {
+  /* Spacing between posts */
+  & article.post {
+    margin-bottom: 2rem;
+  }
+
+  & article.post + article.post,
+  & li.post + li.post {
     margin-top: var(--row-gap-medium);
   }
-  & li.post + li.post {
-    margin-top: var(--row-gap-small);
-  }
 
+  /* Post header and title */
   & .post-header {
     margin-bottom: var(--row-gap-xsmall);
-  }
-
-  & .post-details {
-    font: var(--font-small);
   }
 
   & .post-title {
@@ -27,30 +27,46 @@
     }
   }
 
-& article.post {
+  & .post-details {
+    font: var(--font-small);
+  }
+
+  /* --- Critical Fixes for iPad Safari --- */
+  & article.post {
     background-color: #e6f2ff;
     padding: 1.5rem;
     border-radius: 8px;
-    margin-bottom: 2rem;
     border: 1px solid #cce0ff;
-    position: relative;
-    /* Shadow fallbacks */
+    
+    /* Shadow with multiple fallbacks */
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
     -webkit-box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
-    transform: translate3d(0, 0, 0);
-    -webkit-transform: translate3d(0, 0, 0);
+    
+    /* Force GPU rendering */
+    transform: translateZ(0);
+    -webkit-transform: translateZ(0);
+    
+    /* Ensure stacking context */
+    isolation: isolate;
+    position: relative;
+    z-index: 0;
   }
 
-  /* Simulated shadow for stubborn Safari */
-  & article.post::before {
+  /* Nuclear option: Replace shadow with gradient overlay */
+  & article.post::after {
     content: "";
     position: absolute;
     top: 0;
     left: 0;
     right: 0;
     bottom: 0;
-    border-radius: 7px; /* Slightly smaller to avoid bleed */
-    border: 1px solid rgba(0, 0, 0, 0.08);
+    border-radius: 8px;
+    background: linear-gradient(
+      to bottom,
+      rgba(0, 0, 0, 0.02) 0%,
+      rgba(0, 0, 0, 0) 20%
+    );
     pointer-events: none;
+    z-index: -1;
   }
 }
