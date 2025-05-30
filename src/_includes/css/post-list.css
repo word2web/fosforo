@@ -1,34 +1,46 @@
 .postList {
   list-style: none;
   padding: 0;
+}
 
-  & article.post + article.post {
-    margin-top: var(--row-gap-medium);
-  }
-  & li.post + li.post {
-    margin-top: var(--row-gap-small);
-  }
+/* Space between articles */
+.postList article.post + article.post {
+  margin-top: var(--row-gap-medium);
+}
 
-  & .post-header {
-    margin-bottom: var(--row-gap-xsmall);
-  }
+/* Space between list items if used */
+.postList li.post + li.post {
+  margin-top: var(--row-gap-small);
+}
 
-  & .post-details {
-    font: var(--font-small);
-  }
+/* Post header spacing */
+.postList .post-header {
+  margin-bottom: var(--row-gap-xsmall);
+}
 
-  & .post-title {
-    font: var(--font-title);
-    letter-spacing: var(--font-title-spacing);
-    display: block;
+/* Post details font */
+.postList .post-details {
+  font: var(--font-small);
+  color: #64748b; /* Subdued text */
+  font-size: 0.875rem;
+}
 
-    & a {
-      text-decoration: none;
-    }
-  }
+/* Post title styling */
+.postList .post-title {
+  font: var(--font-title);
+  letter-spacing: var(--font-title-spacing);
+  display: block;
+  font-size: 1.25rem;
+  margin-bottom: 0.5rem;
+}
 
-  /* Simple card design */
-& article.post {
+/* Post title link styling */
+.postList .post-title a {
+  text-decoration: none;
+}
+
+/* Simple card design for each post */
+.postList article.post {
   background: #f8fafc; /* Light subtle background */
   border: 1px solid #e2e8f0; /* Soft border */
   border-radius: 8px;
@@ -37,17 +49,7 @@
   transition: transform 0.2s ease; /* Optional hover effect */
 }
 
-.article.post:hover {
-  transform: translateY(-2px); /* Lift on hover */
-}
-
-.post-title {
-  font-size: 1.25rem;
-  margin-bottom: 0.5rem;
-}
-
-.post-details {
-  color: #64748b; /* Subdued text */
-  font-size: 0.875rem;
-}
+/* Lift card on hover */
+.postList article.post:hover {
+  transform: translateY(-2px);
 }
