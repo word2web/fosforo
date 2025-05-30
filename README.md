@@ -1,52 +1,57 @@
-# Simple Blog
+# Simple Blog (Personalized)
 
-[Lume](https://lume.land) theme to create a simple blog.
+A customized version of the [Simple Blog](https://lume.land/theme/simple-blog/) theme for [Lume](https://lume.land), the static site generator for Deno.
+
+## About
+
+This project is a personal adaptation of the original Simple Blog theme, created by [@lumeland](https://github.com/lumeland).  
+**Many thanks to the original developer for their excellent work!**  
+This version includes my own design and feature tweaks for my personal blog.
+
+## Features
 
 - Supports tags and post authors
 - Atom and JSON feeds
 - Sitemap and SEO features
 - Instant search engine
+- Custom design and enhancements
 
-## Set up a new site
+## Getting Started
 
-The **fastest and easiest** way to configure this theme is the
-[Lume init command](https://deno.land/x/lume_init), which one can also copy
-easily from the [Simple Blog theme page](https://lume.land/theme/simple-blog/).
-Running:
+### 1. Set up a new site
+
+The easiest way to use this theme is with the [Lume init command](https://deno.land/x/lume_init):
 
 ```bash
 deno run -A https://lume.land/init.ts --theme=simple-blog
 ```
 
-will create a new project with Simple Blog configured. Edit the
-[`_data.yml`](./src/_data.yml) file in your blog root folder with your data to
-customize the site title, description, and metadata.
+Or, to use this customized version, clone this repository:
 
-Posts must be saved in the `posts` folder. For example,
-`posts/my-first-posts.md`.
-
-## Install as a remote theme
-
-To add the theme to an existing Lume project, import it in your `_config.ts`
-file as a remote module. Update it by changing the version number in the import
-URL:
-
-```ts
-import lume from "lume/mod.ts";
-import blog from "https://deno.land/x/lume_theme_simple_blog@v0.15.6/mod.ts";
-
-const site = lume();
-
-site.use(blog());
-
-export default site;
+```bash
+git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
+cd YOUR-REPO-NAME
 ```
 
-Copy the [`_data.yml`](./src/_data.yml) file to your blog root folder and edit
-it with your data.
+### 2. Configure your site
 
-## Use it as a base template
+Edit the [`src/_data.yml`](./src/_data.yml) file to set your site title, description, and metadata.
 
-To use this theme as a base template for a more customized blog, clone this repo
-and edit the [\_config.ts](./_config.ts) file. The source files are in the
-[src](./src/) folder.
+Add your posts to the `posts` folder (e.g., `posts/my-first-post.md`).
+
+### 3. Build and preview
+
+```bash
+deno task lume
+```
+
+Then open the generated `_site` folder in your browser.
+
+## Credits
+
+- **Theme:** Based on [Simple Blog](https://lume.land/theme/simple-blog/) by [@lumeland](https://github.com/lumeland)
+- **Framework:** [Lume](https://lume.land) static site generator
+
+## License
+
+See [LICENSE](./LICENSE) for details.
