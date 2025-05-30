@@ -2,19 +2,19 @@
   list-style: none;
   padding: 0;
 
-  /* Spacing between posts */
-  & article.post {
-    margin-bottom: 2rem;
-  }
-
-  & article.post + article.post,
-  & li.post + li.post {
+  & article.post + article.post {
     margin-top: var(--row-gap-medium);
   }
+  & li.post + li.post {
+    margin-top: var(--row-gap-small);
+  }
 
-  /* Post header and title */
   & .post-header {
     margin-bottom: var(--row-gap-xsmall);
+  }
+
+  & .post-details {
+    font: var(--font-small);
   }
 
   & .post-title {
@@ -27,46 +27,27 @@
     }
   }
 
-  & .post-details {
-    font: var(--font-small);
-  }
+  /* Simple card design */
+& article.post {
+  background: #f8fafc; /* Light subtle background */
+  border: 1px solid #e2e8f0; /* Soft border */
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+  transition: transform 0.2s ease; /* Optional hover effect */
+}
 
-  /* --- Critical Fixes for iPad Safari --- */
-  & article.post {
-    background-color: #e6f2ff;
-    padding: 1.5rem;
-    border-radius: 8px;
-    border: 1px solid #cce0ff;
-    
-    /* Shadow with multiple fallbacks */
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
-    -webkit-box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
-    
-    /* Force GPU rendering */
-    transform: translateZ(0);
-    -webkit-transform: translateZ(0);
-    
-    /* Ensure stacking context */
-    isolation: isolate;
-    position: relative;
-    z-index: 0;
-  }
+.article.post:hover {
+  transform: translateY(-2px); /* Lift on hover */
+}
 
-  /* Nuclear option: Replace shadow with gradient overlay */
-  & article.post::after {
-    content: "";
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    border-radius: 8px;
-    background: linear-gradient(
-      to bottom,
-      rgba(0, 0, 0, 0.02) 0%,
-      rgba(0, 0, 0, 0) 20%
-    );
-    pointer-events: none;
-    z-index: -1;
-  }
+.post-title {
+  font-size: 1.25rem;
+  margin-bottom: 0.5rem;
+}
+
+.post-details {
+  color: #64748b; /* Subdued text */
+  font-size: 0.875rem;
+}
 }
