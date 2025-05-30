@@ -27,17 +27,26 @@
     }
   }
 
-  /* Updated box styling with Safari/iPad fixes */
-  & article.post {
-    background-color: #e6f2ff;
-    padding: 1.5rem;
-    border-radius: 8px;
-    margin-bottom: 1.5rem;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
-    -webkit-box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04); /* Safari fix */
-    border: 1px solid #cce0ff;
-    display: block; /* Ensures shadows render properly */
-  }
+& article.post {
+  background-color: #e6f2ff;
+  padding: 1.5rem;
+  border-radius: 8px;
+  margin-bottom: 1.5rem;
+  border: 1px solid #cce0ff;
+  /* Shadow fallback for Safari */
+  position: relative;
+}
+/* Simulate shadow with pseudo-elements */
+& article.post::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  border-radius: 8px;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  pointer-events: none;
 }
 
 /* iPad-specific adjustments (768px–1024px) */
@@ -51,4 +60,5 @@
       font-size: 1.25rem; /* Scale down title size if needed */
     }
   }
+}
 }
