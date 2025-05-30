@@ -1,7 +1,7 @@
 ---
 title: My minimum viable website
 date: '2025-05-27T00:00:00.000Z'
-lastUpdated: 2025-05-27T00:00:00.000Z
+lastUpdated: 2025-05-30T00:00:00.000Z
 draft: false
 tags:
   - static site generators
@@ -28,6 +28,6 @@ In terms of content stategy there are currently three underlying principles:
 2. There will be no images unless absolutely relevant.
 3. I will not run my text through AI or get it to write for me. I don't want to lose the skill of thinking for myself even if the end product is rougher that might otherwise be possible.
 
-It's going to be a very simple affair but if you've read this far it's done its job. 
+It's going to be a very simple affair but if you've read this far it's done the job.
 
 Thanks for reading ❤️.
