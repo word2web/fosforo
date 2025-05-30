@@ -4,7 +4,7 @@ title: About
 url: /about/
 menu:
   visible: true
-  order: 2
+  order: 1
 ---
 I'm currently based in Scotland and since 2017 I've worked as a contractor in knowledge and information management.
 
