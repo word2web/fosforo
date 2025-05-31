@@ -19,10 +19,25 @@ I love a [MOOC](https://en.wikipedia.org/wiki/Massive_open_online_course). Below
 **Certificate**: [View Certificate](/uploads/certificate-elements-of-ai.png)  
 *Completed: May 2025*
 
+- **Le DPO et les outils de la conformité**  
+**Platform/Institution**: CNIL / Commission nationale de l'informatique et des libertés  
+**Certificate**: [View Certificate](/uploads/CNIL-Module4.pdf)  
+*Completed: April 2025*
+
+- **Les responsabilités des acteurs**  
+**Platform/Institution**: CNIL / Commission nationale de l'informatique et des libertés  
+**Certificate**: [View Certificate](/uploads/CNIL-Module3.pdf)  
+*Completed: March 2025*
+
+- **Les principes de la protection des données**  
+**Platform/Institution**: CNIL / Commission nationale de l'informatique et des libertés  
+**Certificate**: [View Certificate](/uploads/CNIL-Module2.pdf)  
+*Completed: July 2022*
+
 - **Le RGPD et ses notions clés**  
 **Platform/Institution**: CNIL / Commission nationale de l'informatique et des libertés  
 **Certificate**: [View Certificate](/uploads/CNIL-Module1.pdf)  
-*Completed: March 2025*
+*Completed: June 2022*
 
 ## Learning Platforms
 
