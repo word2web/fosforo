@@ -23,8 +23,8 @@ export default function* ({ search, paginate, i18n }) {
 
 function url(n) {
   if (n === 1) {
-    return "/archive/";
+    return "/blog/";
   }
 
-  return `/archive/${n}/`;
+  return `/blog/${n}/`;
 }

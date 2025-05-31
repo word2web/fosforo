@@ -7,27 +7,24 @@ title: Home
 <header class="page-header">
   <h1>{{ home.welcome }}</h1>
 <div class="page-subtitle">{{ home.intro |> md }}</div>
-<!-- <div class="search" id="search"></div> -->
-
-
 </header>
 
-<section class="postList">
+
   {{ for post of search.pages("type=post", "date=desc", 2) }}
  
  <div class="card mb-3">
       <div class="card-body">
-        <h5 class="card-title">
-          {{ post.title }}
-      </h5>
+           <div class="card-title post-title mb-2">
+        <a class="post-link" href="{{ post.url }}" {{ if post.url == url }} aria-current="page"{{ /if }}>
+          {{ post.title || post.url }}
+        </a>
+      </div>
 
 {{ include "templates/post-details.vto" {
-        date: "First published " + post.date,
-        tags: post.tags,
-        author: post.author,
-        readingInfo: post.readingInfo
-        } }}
-    </header>
+        date: "First published " + post.date,       
+        } 
+        }}
+   
 
     <div class="post-excerpt body">
       {{ post.excerpt |> md }}
@@ -39,8 +36,9 @@ title: Home
   </div>
   </div>
 {{ /for }}
-</section>
+
 
 <hr>
+
 
 <p>{{ i18n.nav.archive }}</p>
