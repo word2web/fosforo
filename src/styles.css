@@ -85,3 +85,11 @@ a.badge:focus {
   margin: 0;
   padding: 0;
 }
+
+
+/* Nav item hover styling */
+.nav-item:hover,
+.nav-item:focus {
+  text-decoration: underline;
+  cursor: pointer;
+}
