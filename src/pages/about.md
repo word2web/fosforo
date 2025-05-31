@@ -16,8 +16,6 @@ During this time I've been lucky enough to work for some big organisations and c
 - the UK Government's [Department of Health and Social Care](https://www.gov.uk/government/organisations/department-of-health-and-social-care) and [Department for Science, Innovation and Technology](https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology)
 - and a [science NGO](https://council.science/) based in Paris.
 
-## Test heading
-
 Some of these roles have been via my company - Word2Web Ltd (Company number 13390874) - which is still open for business. 😄
 
 Before becoming a contractor (the best career decision of my life so far) I worked in corporate communications for a large UK charity and the NHS. Before that I worked as a website content editor in the days when updating websites for a living was a novelty...And before that (sshhhhh!) I was a librarian. 🤫 📚
