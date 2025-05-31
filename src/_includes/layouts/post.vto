@@ -4,7 +4,7 @@ bodyClass: body-post
 ---
 <article class="post" data-pagefind-body data-title="{{ title }}" data-pagefind-index-attrs="data-title">
   <header class="post-header">
-    <h1 class="post-title">{{ title }}</h1>
+    <h1>{{ title }}</h1>
 
     {{ include "templates/post-details.vto" }}
   </header>
@@ -32,7 +32,7 @@ bodyClass: body-post
   </nav>
   {{ /if }}
 
-  <div class="post-body body">
+  <div class="body">
     {{ content }}
   </div>
 

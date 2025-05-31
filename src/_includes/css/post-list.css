@@ -3,53 +3,49 @@
   padding: 0;
 }
 
-/* Space between articles */
-.postList article.post + article.post {
-  margin-top: var(--row-gap-medium);
-}
-
-/* Space between list items if used */
-.postList li.post + li.post {
-  margin-top: var(--row-gap-small);
-}
-
-/* Post header spacing */
-.postList .post-header {
-  margin-bottom: var(--row-gap-xsmall);
-}
-
-/* Post details font */
-.postList .post-details {
-  font: var(--font-small);
-  color: #64748b; /* Subdued text */
-  font-size: 0.875rem;
-}
-
-/* Post title styling */
-.postList .post-title {
-  font: var(--font-title);
-  letter-spacing: var(--font-title-spacing);
-  display: block;
-  font-size: 1.25rem;
-  margin-bottom: 0.5rem;
-}
-
-/* Post title link styling */
-.postList .post-title a {
-  text-decoration: none;
-}
-
-/* Simple card design for each post */
+/* Card styling - now with proper dark mode support */
 .postList article.post {
-  background: #f8fafc; /* Light subtle background */
-  border: 1px solid #e2e8f0; /* Soft border */
+  border: 1px solid var(--border-color, #e2e8f0);
   border-radius: 8px;
   padding: 1.5rem;
   margin-bottom: 1.5rem;
-  transition: transform 0.2s ease; /* Optional hover effect */
+  background: transparent;
 }
 
-/* Lift card on hover */
-.postList article.post:hover {
-  transform: translateY(-2px);
+/* Text styles */
+.postList .post-title,
+.postList .post-title a {
+  color: var(--text-color, #1e293b); /* This will change in dark mode */
+  text-decoration: none;
+  font: var(--font-title);
+  letter-spacing: var(--font-title-spacing);
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+.postList .post-details {
+  color: var(--text-muted, #64748b);
+  font: var(--font-small);
+}
+
+/* Dark mode overrides - now properly scoped */
+@media (prefers-color-scheme: dark) {
+  .postList article.post {
+    --text-color: #f1f5f9; /* Soft white for text */
+    --border-color: #334155;
+    --text-muted: #94a3b8;
+  }
+  
+  /* Ensure all text in cards uses the dark mode colors */
+  .postList article.post,
+  .postList article.post .post-title,
+  .postList article.post .post-title a,
+  .postList article.post .post-details {
+    color: var(--text-color);
+  }
+  
+  /* Slightly different color for muted text */
+  .postList article.post .post-details {
+    color: var(--text-muted);
+  }
 }

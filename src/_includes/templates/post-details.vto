@@ -17,13 +17,14 @@
 
   {{ if tags?.length }}
   <div class="post-tags">
-    {{ for tag of tags }}
-      {{ set page = search.page(`type=tag tag="${tag}"`) }}
-
-      {{ if page }}
-        <a data-pagefind-filter="filter" class="badge" href="{{ page.url }}">{{ tag }}</a>
-      {{ /if }}
-    {{ /for }}
-  </div>
+  {{ for tag of tags }}
+    {{ set page = search.page(`type=tag tag="${tag}"`) }}
+    {{ if page }}
+      <a class="badge bg-secondary" data-pagefind-filter="filter" href="{{ page.url }}">{{ tag }}</a>
+    {{ else }}
+      <span class="badge bg-secondary">{{ tag }}</span>
+    {{ /if }}
+  {{ /for }}
+</div>
   {{ /if }}
 </div>

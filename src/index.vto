@@ -5,7 +5,7 @@ title: Home
 ---
 
 <header class="page-header">
-  <h1 class="page-title">{{ home.welcome }}</h1>
+  <h1>{{ home.welcome }}</h1>
 <div class="page-subtitle">{{ home.intro |> md }}</div>
 <!-- <div class="search" id="search"></div> -->
 
@@ -15,13 +15,11 @@ title: Home
 <section class="postList">
   {{ for post of search.pages("type=post", "date=desc", 2) }}
  
-  <article class="post">
-    <header class="post-header">
-      <h2 class="post-title">
-        <a href="{{ post.url }}" {{ if post.url == url }} aria-current="page"{{ /if }}>
-          {{ post.title || post.url }}
-        </a>
-      </h2>
+ <div class="card mb-3">
+      <div class="card-body">
+        <h5 class="card-title">
+          {{ post.title }}
+      </h5>
 
 {{ include "templates/post-details.vto" {
         date: "First published " + post.date,
@@ -38,7 +36,8 @@ title: Home
     <a href="{{ post.url }}" class="post-link">
       {{ i18n.nav.continue_reading }}
     </a>
-  </article>
+  </div>
+  </div>
 {{ /for }}
 </section>
 
