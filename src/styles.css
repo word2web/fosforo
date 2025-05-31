@@ -93,3 +93,11 @@ a.badge:focus {
   text-decoration: underline;
   cursor: pointer;
 }
+
+
+
+/* Header anchor styling */
+.header-anchor {
+  color: inherit; /* Use the same color as the parent heading */
+  text-decoration: none; /* Remove the underline */
+}
