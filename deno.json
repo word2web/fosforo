@@ -1,5 +1,5 @@
 {
-  "nodeModulesDir": true,
+  "nodeModulesDir": "auto",
   "npm": {
     "markdown-it-deflist": "3.0.0"
   },
