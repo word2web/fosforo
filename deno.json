@@ -1,4 +1,8 @@
 {
+  "nodeModulesDir": true,
+  "npm": {
+    "markdown-it-deflist": "3.0.0"
+  },
   "imports": {
     "lume/": "https://deno.land/x/lume@v3.0.0/",
     "lume/cms/": "https://cdn.jsdelivr.net/gh/lumeland/cms@0.11.5/",

@@ -33,6 +33,7 @@
     "jsr:@std/yaml@^1.0.5": "1.0.6",
     "npm:@mdit/plugin-alert@0.14.0": "0.14.0_markdown-it@14.1.0",
     "npm:@types/estree@1.0.6": "1.0.6",
+    "npm:@vercel/analytics@^1.5.0": "1.5.0",
     "npm:autoprefixer@10.4.21": "10.4.21_postcss@8.5.3",
     "npm:date-fns@4.1.0": "4.1.0",
     "npm:estree-walker@3.0.3": "3.0.3",
@@ -223,6 +224,9 @@
     },
     "@types/mdurl@2.0.0": {
       "integrity": "sha512-RGdgjQUZba5p6QEFAVx2OGb8rQDL/cPRG7GiedRzMcJ1tYnUANBncjbSB1NRGwbvjcPeikRABz2nshyPk1bhWg=="
+    },
+    "@vercel/analytics@1.5.0": {
+      "integrity": "sha512-MYsBzfPki4gthY5HnYN7jgInhAZ7Ac1cYDoRWFomwGHWEX7odTEzbtg9kf/QSo7XEsEAqlQugA6gJ2WS2DEa3g=="
     },
     "acorn@8.14.1": {
       "integrity": "sha512-OvQ/2pUDKmgfCg++xsTX1wGxfTaszcHVcTctW4UJB4hibJx2HXxxO5UmVgyjMa+ZDsiaf5wWLXYpRWMmBI0QHg==",
@@ -729,5 +733,12 @@
     "https://deno.land/x/xml@6.0.4/parse.ts": "1302c75d8fd40df39310bb8ae6716302f0b77c61c607437dc023d3d792a0df54",
     "https://deno.land/x/xml@6.0.4/stringify.ts": "0e2f79798d413c5386bf5de90bbe9901f99951ceae484050a8ef89e2b4da9dd0",
     "https://deno.land/x/xml@6.0.4/wasm_xml_parser/wasm_xml_parser.js": "0804d738e6d94284b043546260b547bb4731fbfd3b3851139740e863dabf25bd"
+  },
+  "workspace": {
+    "packageJson": {
+      "dependencies": [
+        "npm:@vercel/analytics@^1.5.0"
+      ]
+    }
   }
 }
