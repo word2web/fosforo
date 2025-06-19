@@ -22,4 +22,4 @@ Before becoming a contractor (the best career decision of my life so far) I work
 
 So there have been a few career changes so far and given the pace of change these days there may be more to come. I'm [still learning](/learning-odyssey/) as I go.
 
-**One big area of interest to me in this age of AI is what work is left for a *latter day human* like me to do.** I will be exploring this question from time to time (and hopefully 🙏 coming up with some answers) in my [blog](/blog/) so if this sort of thing interests you too, please stay around.
+**One big area of interest to me in this age of AI is what work is left for humans like me to do.** I will be exploring this question from time to time (and hopefully 🙏 coming up with some answers) in my [blog](/blog/) so if this sort of thing interests you too, please stay around.
