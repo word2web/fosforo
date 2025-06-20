@@ -1,5 +1,6 @@
 ---
 title: The Galician for cabbage
+url: /repolo/
 date: '2025-05-16T00:00:00.000Z'
 lastUpdated: 2024-05-22T00:00:00.000Z
 draft: true
