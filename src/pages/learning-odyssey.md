@@ -2,52 +2,37 @@
 layout: layouts/page.vto
 title: Learning odyssey
 menu:
-  visible: false
-  order: 0
+visible: false
+order: 0
 url: /learning-odyssey/
 ---
 This page logs the online courses I've most recently completed, along with my profiles on platforms like Microsoft Learning and Salesforce Trailhead.
 
-It also acts as an *aide memoire* for some of my bigger learning goals: [subjects](#subjects) I'd like to know more about and [languages](#languages) I'd like to be able to do more than order a coffee in.
+It also acts as an *aide memoire* for some of my bigger learning goals: [subjects](#subjects) I'd like to know more about and [languages](#languages) I'd like to be able to do more than order a coffee in.  
 
-## Completed Courses  
+## Completed Courses
 
-I love a [MOOC](https://en.wikipedia.org/wiki/Massive_open_online_course). Below is a list of the courses I've completed, ordered with the most recent at the top. Where available, I've linked to certificates of completion. Who doesn't love a PDF certificate with their name on it? I know I do 😉
+I love a [MOOC](https://en.wikipedia.org/wiki/Massive_open_online_course). Below is a list of the courses I've completed, ordered with the most recent at the top. Where available, I've linked to certificates of completion. Who doesn't love a PDF certificate with their name on it? I know I do 😉  
 
-- **Elements of AI: Introduction to AI**  
-**Platform/Institution**: MinnaLearn / University of Helsinki  
-**Certificate**: [View Certificate](/uploads/certificate-elements-of-ai.png)  
-*Completed: May 2025*
+| Course                                     | Subject               | Certificate                                                 |
+|--------------------------------------------|-----------------------|-------------------------------------------------------------|
+| Elements of AI: Introduction to AI         | AI                    | [View Certificate](/uploads/certificate-elements-of-ai.png) |
+| Le DPO et les outils de la conformité      | GDPR, data protection | [View Certificate](/uploads/CNIL-Module4.pdf)               |
+| Les responsabilités des acteurs            | GDPR, data protection | [View Certificate](/uploads/CNIL-Module3.pdf)               |
+| Les principes de la protection des données | GDPR, data protection | [View Certificate](/uploads/CNIL-Module2.pdf)               |
+| Le RGPD et ses notions clés                | GDPR, data protection | [View Certificate](/uploads/CNIL-Module2.pdf)               |  
+  
+## Learning Platforms
 
-- **Le DPO et les outils de la conformité**  
-**Platform/Institution**: CNIL / Commission nationale de l'informatique et des libertés  
-**Certificate**: [View Certificate](/uploads/CNIL-Module4.pdf)  
-*Completed: April 2025*
+**Microsoft Learning**
 
-- **Les responsabilités des acteurs**  
-**Platform/Institution**: CNIL / Commission nationale de l'informatique et des libertés  
-**Certificate**: [View Certificate](/uploads/CNIL-Module3.pdf)  
-*Completed: March 2025*
-
-- **Les principes de la protection des données**  
-**Platform/Institution**: CNIL / Commission nationale de l'informatique et des libertés  
-**Certificate**: [View Certificate](/uploads/CNIL-Module2.pdf)  
-*Completed: July 2022*
-
-- **Le RGPD et ses notions clés**  
-**Platform/Institution**: CNIL / Commission nationale de l'informatique et des libertés  
-**Certificate**: [View Certificate](/uploads/CNIL-Module1.pdf)  
-*Completed: June 2022*
-
-## Learning Platforms  
-
-- **Microsoft Learning**  
 [Microsoft Learning Profile](https://learn.microsoft.com/en-us/users/grahamtwaddle-7856/)
 
-- **Salesforce Trailhead**  
+**Salesforce Trailhead**
+
 [Salesforce Trailhead Profile](https://www.salesforce.com/trailblazer/gtwaddle)
 
-## Subjects  
+## Subjects
 
 Subjects I'd like to learn more about
 
@@ -55,14 +40,11 @@ Subjects I'd like to learn more about
 - Machine Learning
 - Mathematics
 - Electronics
-- Python progreaming language
+- Python
 - Data Science
 - Cyber-security
 
-## Languages  
+## Languages
 
-- **Bosnian, Croatian, Serbian**  
-**Current estimated level**: A1
-
-- **French**  
-**Current estimated level**: B1
+- Bosnian, Croatian, Serbian (Current estimated level: A1)
+- French (Current estimated level: B1)
