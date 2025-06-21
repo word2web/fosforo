@@ -101,3 +101,18 @@ a.badge:focus {
   color: inherit; /* Use the same color as the parent heading */
   text-decoration: none; /* Remove the underline */
 }
+
+/* Table styling */
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+th {
+  background-color: #f2f2f2;
+}
