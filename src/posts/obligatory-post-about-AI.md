@@ -2,7 +2,7 @@
 title: Obligatory post about AI
 url: /obligatory-post-about-AI/
 date: '2025-05-19T00:00:00.000Z'
-lastUpdated: 2024-05-30
+lastUpdated: 2024-06-27
 draft: false
 tags:
   - AI
@@ -30,13 +30,13 @@ How sustainable is any of this? It's not just hardware and electricity that AI d
 
 I am not asking these questions because I am hostile to AI. I am *awestruck* by AI. Here I am, trying to squeeze out this blog post and it is *sooooo tempting* to cave in and ask AI to do it for me. Because writing is hard and AI is better at it than me. As it is at problem solving, idea generation, summarising, reporting, programming, calculating... and finishing sentences more fluently than this one.
 
-The more I interact with LLMs like ChatGPT, Grok, Gemini and DeepSeek, the more I marvel at their capability and despair that *latter day humans* like me can compete with them at the sort of intellectual tasks I used to do for a living.
+The more I interact with LLMs like ChatGPT, Grok, Gemini and DeepSeek, the more I marvel at their capability and despair that humans like me can compete with them at the sort of intellectual tasks I used to do for a living.
 
 **This means that some jobs (maybe mine) are going to be replaced or downgraded.** That's my one takeaway from my 'deep dive' into AI so far. Provided that AI even at its current level can hang around for another 5 years, then I don't see how some jobs can survive. I just don't.
 
 This is sobering and a bit scary. **AI *is* a bit scary**. And impressive. Scarily impressive.
 
-I'll put it bluntly: any task that can be done digitally is likely to be one that AI will eventually be better at than humans.
+I'll put it bluntly: any task that can be done online is likely to be one that AI will eventually be better at than humans.
 
 The internet no longer belongs to us. In fact, it's been some time since the internet was an exclusively human zone. We're rubbing shoulders with bot farms, large language models, algorithms, disembodied voices and their avatars and we are becoming guests in their land. They are the real digital natives.
 
