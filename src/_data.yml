@@ -1,6 +1,6 @@
 home:
-  welcome: "Hello! \U0001F44B"
-  intro: "<p>Thanks for stopping by.<p><p>I'm Graham Twaddle and since 2017 I've been a contractor specialising in knowledge and information management.</p><p> This site is a home for my blog and for some wee personal projects I've been working on.</p><p>Enjoy. &#128522;</p>"
+  welcome: "Hello!"
+  intro: "<p>Thanks for stopping by.<p><p>I'm Graham Twaddle and since 2017 I've been a contractor specialising in knowledge and information management.</p><p> This site is a home for my blog and for some wee personal projects I've been working on.</p><p>Enjoy. :-)</p>"
 description: Graham Twaddle's minimum viable website
 generator: false
 lang: en

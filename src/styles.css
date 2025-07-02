@@ -37,7 +37,10 @@ main {
 }
 
 footer {
-  flex-shrink: 0;
+  max-width: min(100% - 15vw, 45em); /* Match your main content's max-width */
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
 }
 
 /* Post link */
@@ -64,14 +67,21 @@ footer {
 a.badge {
   text-decoration: none;
 }
-
+/* Tag styling */
 a.badge:hover,
 a.badge:focus {
   text-decoration: underline;
 }
 
 
-/* Tag styling */
+
+/* Previous/Next page link styling */
+.pagination-nav {
+  max-width: min(100% - 15vw, 45em); /* Match your main content's max-width */
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
 .page-navigation ul {
   list-style: none;
   padding: 0;
@@ -85,7 +95,27 @@ a.badge:focus {
   margin: 0;
   padding: 0;
 }
+/* Page pagination - previous / next article styling */
+.page-pagination ul {
+  display: flex;
+  justify-content: space-between;
+  align-items: stretch;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
 
+.page-pagination li {
+  flex: 1 1 0;
+}
+
+.page-pagination .pagination-prev {
+  text-align: left;
+}
+
+.page-pagination .pagination-next {
+  text-align: right;
+}
 
 /* Nav item hover styling */
 .nav-item:hover,

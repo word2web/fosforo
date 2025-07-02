@@ -34,7 +34,7 @@ bodyClass: body-post
 
   <div class="body">
     {{ content }}
-  </div>
+  
 
   {{ if it.footnotes.length }}
   <aside role="note" class="footnotes">
@@ -67,7 +67,7 @@ bodyClass: body-post
   </aside>
   {{ /if }}
 
-<footer class="post-footer">
+
   <p>
     <em>
       Last updated:
@@ -78,25 +78,25 @@ bodyClass: body-post
       {{ /if }}
     </em>
   </p>
-</footer>
-  
-</article>
-
-<nav class="page-pagination pagination">
-  <ul>
+</div>
+<nav class="page-pagination">
+  <ul class="row list-unstyled m-0 g-0 d-flex">
     {{- set previousPost = search.previousPage(url, "type=post") }}
+    {{- set nextPost = search.nextPage(url, "type=post") }}
+
     {{- if previousPost }}
-    <li class="pagination-prev">
+    <li class="col-6 text-start">
       <a href="{{ previousPost.url }}" rel="prev">
         <span>{{ i18n.nav.previous_post }}</span>
         <strong>{{ previousPost.title }}</strong>
       </a>
     </li>
+    {{ else }}
+    <li class="col-6"></li>
     {{ /if }}
 
-    {{- set nextPost = search.nextPage(url, "type=post") }}
     {{- if nextPost }}
-    <li class="pagination-next">
+    <li class="col-6 text-end">
       <a href="{{ nextPost.url }}" rel="next">
         <span>{{ i18n.nav.next_post }}</span>
         <strong>{{ nextPost.title }}</strong>
@@ -105,3 +105,4 @@ bodyClass: body-post
     {{ /if }}
   </ul>
 </nav>
+</article>

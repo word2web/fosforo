@@ -2,7 +2,7 @@
 title: Obligatory post about AI
 url: /obligatory-post-about-AI/
 date: '2025-05-19T00:00:00.000Z'
-lastUpdated: 2024-06-27
+lastUpdated: 2025-06-27
 draft: false
 tags:
   - AI
