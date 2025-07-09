@@ -8,8 +8,7 @@ url: /learning-odyssey/
 ---
 This page logs the online courses I've most recently completed, along with my profiles on platforms like Microsoft Learning and Salesforce Trailhead.
 
-It also acts as an *aide memoire* for some of my bigger learning goals: [subjects](#subjects) I'd like to know more about and [languages](#languages) I'd like to be able to do more than order a coffee in.  
-
+It also acts as an *aide memoire* for some of my bigger learning goals: [subjects](#subjects) I'd like to know more about and [languages](#languages) I'd like to learn.
 &nbsp;  
 
 ## Completed Courses
@@ -27,10 +26,11 @@ I love a [MOOC](https://en.wikipedia.org/wiki/Massive_open_online_course). Below
 &nbsp;  
 
 ## Learning Platforms
+I am a fan of both Microsoft Learn and Salesforce Trailhead - both great, free ways to pick up new skills. Whenever I have time, I like to dip in and get new badges.
 
-### Microsoft Learning
+### Microsoft Learn
 
-[Microsoft Learning Profile](https://learn.microsoft.com/en-us/users/grahamtwaddle-7856/)
+[Microsoft Learn Profile](https://learn.microsoft.com/en-us/users/grahamtwaddle-7856/)
 
 ### Salesforce Trailhead
 
@@ -50,5 +50,10 @@ Subjects I'd like to learn more about
 
 ## Languages
 
+Languages I'd like to be able to order more than a coffee in:
+
 - Bosnian, Croatian, Serbian (Current estimated level: A1)
 - French (Current estimated level: B1)
+
+Languages I'd be happy just to be able to order a coffee in:
+- Mandarin Chinese (Current estimated level: let's just say working towards A1 😆) 
