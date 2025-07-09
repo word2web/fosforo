@@ -18,4 +18,4 @@ Even with GPT-4 doing all of the heavy lifting with the code, it still took me a
 
 Anyway, an interesting and enjoyable first experience 'vibe coding' with Cursor.
 
-![Screenshot of Find My Stop on an iPhone](/uploads/find-my-stop-screenshot.png)
+[![Screenshot of Find My Stop on an iPhone](/uploads/find-my-stop-screenshot.png)](https://find-my-stop.vercel.app)
