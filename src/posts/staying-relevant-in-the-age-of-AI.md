@@ -14,13 +14,13 @@ There's increasing concern about the impact that AI is going to have on the job 
 
 <!--more-->
 
-## Why the panic?
+## Why we should panic
 
-I share this concern. In a [previous blog post](https://www.word2web.co.uk/obligatory-post-about-ai/) I despaired that “humans like me can compete with them at the sort of intellectual tasks I used to do for a living.”  Recently I listened to Geoffrey Hinton, Nobel Laureate and the "Godfather of AI” echo this pessimism. He told Stephen Bartlett on his [podcast](https://music.youtube.com/watch?v=giT0ytynSqg&feature=shared) that, "a good bet would be to be a plumber.”
+I share this concern. In a [previous blog post](https://www.word2web.co.uk/obligatory-post-about-ai/) I despaired that, “any task that can be done online is likely to be one that AI will eventually be better at than humans.”  Recently I listened to Geoffrey Hinton, Nobel Laureate and the "Godfather of AI” echo this pessimism. He told Stephen Bartlett on his [podcast](https://music.youtube.com/watch?v=giT0ytynSqg&feature=shared) that, "a good bet would be to be a plumber.”
 
 If "learn to code" was the career advice of the 2010s, "learn to plumb" might well become the career trope of this decade.
 
-"Learn to code" seemed like wise advice 10 years ago. I have a friend for whom this was good advice. He took the gamble of leaving his old job, invested in retraining at a coding bootcamp and got in at the right time. The outcome today might be very different. There is all round panic about the impact of AI on entry-level coding and other jobs. Having recently tried out some AI enabled code editors such as [Cursor](https://cursor.com/), I can see why.
+"Learn to code" seemed like wise advice 10 years ago. I have a friend for whom it was. He took the gamble of leaving his old job, invested in retraining at a coding bootcamp and got in at the right time. The outcome today might be very different. There is all round panic about the impact of AI on entry-level coding and other jobs. Having recently tried out some AI enabled code editors such as [Cursor](https://cursor.com/), I can see why.
 
 AI is already replacing or reducing many tasks that people, including myself, used to do for a living. For example, in my own case: internal comms. I used to joke that internal comms was "writing the all-staff emails that nobody else wanted to write". Now Gemini, Claude, CoPilot and ChatGPT can all help make us internal comms specialists. The same applies for marketing and a lot of other 'comms' roles. They might not disappear entirely, but there will be less of them.
 
