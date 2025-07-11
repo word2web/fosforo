@@ -35,7 +35,8 @@ If your project uses any dependencies (for example, with npm for scripts or tool
 ```bash
 npm install
 ```
-*(Skip this step if you do not use npm or node dependencies.)*
+
+> Skip this step if you do not use npm or node dependencies.
 
 ### 3. Configure your site
 
