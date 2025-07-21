@@ -1,15 +1,12 @@
 ---
 layout: layouts/page.vto
-title: Learning odyssey
+title: Lifelong learning
 menu:
 visible: false
 order: 0
-url: /learning-odyssey/
+url: /lifelong-learing/
 ---
 This page logs the online courses I've most recently completed, along with my profiles on platforms like Microsoft Learning and Salesforce Trailhead.
-
-It also acts as an *aide memoire* for some of my bigger learning goals: [subjects](#subjects) I'd like to know more about and [languages](#languages) I'd like to learn.
-&nbsp;  
 
 ## Completed Courses
 
@@ -35,25 +32,3 @@ I am a fan of both Microsoft Learn and Salesforce Trailhead - both great, free w
 ### Salesforce Trailhead
 
 [Salesforce Trailhead Profile](https://www.salesforce.com/trailblazer/gtwaddle)
-
-## Subjects
-
-Subjects I'd like to learn more about
-
-- Statistics
-- Machine Learning
-- Mathematics
-- Electronics
-- Python
-- Data Science
-- Cyber-security
-
-## Languages
-
-Languages I'd like to be able to order more than a coffee in:
-
-- Bosnian, Croatian, Serbian (Current estimated level: A1)
-- French (Current estimated level: B1)
-
-Languages I'd be happy just to be able to order a coffee in:
-- Mandarin Chinese (Current estimated level: let's just say working towards A1 😆) 
