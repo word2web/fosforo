@@ -4,7 +4,7 @@ title: Lifelong learning
 menu:
 visible: false
 order: 0
-url: /lifelong-learing/
+url: /lifelong-learning/
 ---
 This page logs the online courses I've most recently completed, along with my profiles on platforms like Microsoft Learning and Salesforce Trailhead.
 
