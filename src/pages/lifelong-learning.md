@@ -14,7 +14,7 @@ I love a [MOOC](https://en.wikipedia.org/wiki/Massive_open_online_course). Below
 
 | Course                                     | Subject               | Certificate                                                 |
 |--------------------------------------------|-----------------------|-------------------------------------------------------------|
-| Cisco Introduction to Cybersecurity        | Cybersecurity         | [View Certificate](/uploads/cI2CSUpdate20250730-31-j9wtt6.pdf) |
+| Cisco Introduction to Cybersecurity        | Cybersecurity         | [View Certificate](/uploads/I2CSUpdate20250730-31-j9wtt6.pdf |
 | Elements of AI: Introduction to AI         | AI                    | [View Certificate](/uploads/certificate-elements-of-ai.png) |
 | Le DPO et les outils de la conformité      | GDPR, data protection | [View Certificate](/uploads/CNIL-Module4.pdf)               |
 | Les responsabilités des acteurs            | GDPR, data protection | [View Certificate](/uploads/CNIL-Module3.pdf)               |
