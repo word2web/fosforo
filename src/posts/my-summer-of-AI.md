@@ -1,7 +1,7 @@
 ---
 title: My summer of AI
-date: 2025-10-08
-lastUpdated: 2025-10-08
+date: 2025-10-13
+lastUpdated: 2025-10-13
 draft: false
 tags:
   - AI 
@@ -50,10 +50,10 @@ I've also started to avoid those search engines that generate AI answers even if
 
 And this also needs to be said: even without so called "generative" AI, we are already drowning in content. Videos, blogs, memes, images, sound clips, endless, endless hours of podcasts we will never have the time to listen to. Is another banal video creation tool to make "funny" clips of [Sam Altman pilfering GPUs or wearing a cat suit](https://petapixel.com/2025/10/02/people-are-making-ai-videos-of-sam-altman-stealing-content-on-sora-2/) really worth all that electricity, all those square miles of data centres? Are we going to burn the planet and empty the aquifers for this?
 
-I think the AI industry has done a very good job at gaslighting us (including me) into thinking that the undeniable novelty of LLMs is something so useful and groundbreaking that it is inherently *worth* the resources and money that are being invested in it - and that its value to businesses and invidiuals is self-evident. Well, I think we will know in the next few years, maybe even sooner, if that is the case. Are enoght people, and important businesses willing to pay money for these tools?
+I think the AI industry has done a very good job at gaslighting us (including me) into thinking that the undeniable novelty of LLMs is something so useful and groundbreaking that it is inherently *worth* the resources and money that are being invested in it - and that its value to businesses and invidiuals is self-evident. Well, I think we will know in the next few years, maybe even sooner, if that is the case. Are enough people, and importantly, businesses willing to pay money for these tools? That's the trillion dollar question.
 
 Do I think we are going into another [AI winter](https://en.wikipedia.org/wiki/AI_winter)? No. LLMs are going to stay around. They are great at crunching text, debugging, summarising, suggesting revisions and brainstorming. But I am relieved to say, the idea that "agentic" AI is just around the corner is hype and at some point the financial bubble it has created will go pop. If I knew when, I wouldn't be writing a blog that nobody reads.
 
 So that's where I am at the moment: sorry it's not a more worked through thinkpiece.
 
-In short, I have come round to the view that AI as it's currently being sold to us isn't as big a threat to competent workers as I originally thought, and it's uses in the average business situation are actually quite limited. This doesn't mean that it's going to be business as usual in the coming years. I think it's going to be anything but usual. But the problems I anticipate will not be so much clever machines taking our jobs but the vulnerabilities of an economy and society that become overly reliant on a digital infrastructure that is becoming increasingly difficult and expensive to maintain.
+In short, I have come round to the view that AI as it's currently being sold to us isn't as big a threat to competent workers as I originally thought, and its uses in the average business situation are actually quite limited. This doesn't mean that it's going to be business as usual in the coming years. I think it's going to be anything but usual. But the problems I anticipate will not be so much clever machines taking our jobs but the vulnerabilities of an economy and society that become overly reliant on a digital infrastructure that is becoming increasingly difficult and expensive to maintain.
