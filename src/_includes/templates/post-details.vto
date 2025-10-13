@@ -16,9 +16,9 @@
     {{ for tag of tags }}
       {{ set page = search.page(`type=tag tag="${tag}"`) }}
       {{ if page }}
-        <a class="badge bg-secondary me-1" href="{{ page.url }}">{{ tag }}</a>
+        <a href="{{ page.url }}">{{ tag }}</a>
       {{ else }}
-        <span class="badge bg-secondary me-1">{{ tag }}</span>
+        <span> {{ tag }}</span>
       {{ /if }}
     {{ /for }}
   </div>

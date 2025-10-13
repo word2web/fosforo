@@ -1,10 +1,10 @@
 ---
 layout: layouts/base.vto
-bodyClass: body-tag
+
 ---
 <header>
   <p><a href="/blog/">{{ i18n.nav.back }}</a></p>
-  <h1 class="page-title">{{ title }}</h1>
+  <h1>{{ title }}</h1>
 </header>
 
 {{ include "templates/post-list.vto" { postslist: results } }}

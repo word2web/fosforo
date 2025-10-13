@@ -1,17 +1,15 @@
 {{ for post of postslist }}
-  <div class="card mb-3">
-    <div class="card-body">
-      <div class="card-title post-title mb-2">
-        <a class="post-link" href="{{ post.url }}" {{ if post.url == url }} aria-current="page"{{ /if }}>
-          {{ post.title || post.url }}
-        </a>
-      </div>
-      {{ include "templates/post-details.vto" {
-        date: post.date,
-        tags: post.tags,
-        author: post.author,
-        readingInfo: post.readingInfo
-      } }}
-    </div>
-  </div>
+  <article class="mb-5 pb-4 border-bottom">
+    <h5 class="fw-bold mb-2">
+      <a href="{{ post.url }}" class="text-decoration-none text-primary" {{ if post.url == url }} aria-current="page"{{ /if }}>
+        {{ post.title || post.url }}
+      </a>
+    </h5>
+    {{ include "templates/post-details.vto" {
+      date: post.date,
+      tags: post.tags,
+      author: post.author,
+      readingInfo: post.readingInfo
+    } }}
+  </article>
 {{ /for }}

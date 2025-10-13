@@ -44,7 +44,8 @@ export default function (userOptions?: Options) {
   const options = merge(defaults, userOptions);
 
   return (site: Lume.Site) => {
-    site.use(postcss())
+    site.use(terser())
+      .use(postcss())
       .use(basePath())
       .use(toc())
       .use(prism(options.prism))
@@ -55,7 +56,6 @@ export default function (userOptions?: Options) {
       .use(footnotes())
       .use(resolveUrls())
       .use(slugifyUrls())
-      .use(terser())
       .use(pagefind(options.pagefind))
       .use(sitemap())
       .use(feed(options.feed))
@@ -76,10 +76,5 @@ export default function (userOptions?: Options) {
     // Alert plugin
     site.hooks.addMarkdownItPlugin(alert);
 
-    // Mastodon comment system
-    site.remoteFile(
-      "/js/comments.js",
-      "https://cdn.jsdelivr.net/npm/@oom/mastodon-comments@0.3.2/src/comments.js",
-    );
   };
 }
