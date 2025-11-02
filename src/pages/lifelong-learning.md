@@ -26,6 +26,7 @@ I love a [MOOC](https://en.wikipedia.org/wiki/Massive_open_online_course). Below
 &nbsp;  
 
 ## Learning Platforms
+
 I am a fan of both Microsoft Learn and Salesforce Trailhead - both great, free ways to pick up new skills. Whenever I have time, I like to dip in and get new badges.
 
 ### Microsoft Learn
