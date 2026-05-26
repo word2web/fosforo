@@ -16,4 +16,4 @@ The inspiration for the app was a Medieval fortune telling system with dice call
 
 I used Google Translate to translate the old texts from Latin and French, and then got ChatGPT to create the code for the virtual dice roll and Bing image creator provided the illustration.
 
-[Consult the Sortes Sanctorum](https://incredible-shortbread-c470c6.netlify.app/)
+[Consult the Sortes Sanctorum](https://sortes-sanctorum.netlify.app/)
